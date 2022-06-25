@@ -27,7 +27,7 @@ function modelLoaded(){
 
     model_status = true;
 
-    cocossd.detect(canvas, gotResults);
+    cocossd.detect(img, gotResults);
 
 }
   
